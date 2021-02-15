@@ -3,9 +3,6 @@
 }
 
 body {
-  display: grid;
-  gap: 20px;
-  justify-content: center;
   background-color: var(--color-white);
   color: var(--color-black);
   font-family: sans-serif;
